@@ -1,6 +1,6 @@
 #6
 
-FILENAME = "file_6.txt"
+FILENAME = "6.txt"
 
 subjects = {}
 
